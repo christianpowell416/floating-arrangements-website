@@ -172,7 +172,7 @@ export default function Home() {
               <h4 className="text-xl font-serif mb-3 text-stone-800">Personalized Service</h4>
               <p className="text-stone-600 leading-relaxed">
                 Your vision is our inspiration. We work closely with you to create arrangements that perfectly
-                reflect your style and event's theme.
+                reflect your style and event&apos;s theme.
               </p>
             </div>
           </div>
@@ -193,8 +193,8 @@ export default function Home() {
                 </svg>
               </div>
               <p className="text-stone-700 mb-6 italic leading-relaxed">
-                "Floating Arrangements transformed our wedding reception into a fairytale! The pool was absolutely stunning.
-                Every guest was in awe."
+                &ldquo;Floating Arrangements transformed our wedding reception into a fairytale! The pool was absolutely stunning.
+                Every guest was in awe.&rdquo;
               </p>
               <p className="text-stone-900 font-medium">— Sarah & Michael</p>
               <p className="text-stone-500 text-sm">Wedding Reception</p>
@@ -207,8 +207,8 @@ export default function Home() {
                 </svg>
               </div>
               <p className="text-stone-700 mb-6 italic leading-relaxed">
-                "Our annual garden party has never looked so elegant. The floating florals were the talk of the evening.
-                Simply exquisite!"
+                &ldquo;Our annual garden party has never looked so elegant. The floating florals were the talk of the evening.
+                Simply exquisite!&rdquo;
               </p>
               <p className="text-stone-900 font-medium">— Jennifer Thompson</p>
               <p className="text-stone-500 text-sm">Private Event</p>
@@ -221,8 +221,8 @@ export default function Home() {
                 </svg>
               </div>
               <p className="text-stone-700 mb-6 italic leading-relaxed">
-                "Professional, creative, and utterly beautiful. Highly recommend for anyone looking to add that 'wow' factor
-                to their event."
+                &ldquo;Professional, creative, and utterly beautiful. Highly recommend for anyone looking to add that &lsquo;wow&rsquo; factor
+                to their event.&rdquo;
               </p>
               <p className="text-stone-900 font-medium">— Robert Chen</p>
               <p className="text-stone-500 text-sm">Corporate Event</p>
