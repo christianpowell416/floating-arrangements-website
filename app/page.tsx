@@ -24,8 +24,8 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/hero-white-roses.jpg"
-            alt="Floating white roses in luxury pool"
+            src="/images/hero-event.jpg"
+            alt="Elegant evening event with floating arrangements"
             fill
             className="object-cover"
             priority
