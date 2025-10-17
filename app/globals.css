@@ -12,12 +12,7 @@
   --font-serif: var(--font-eb-garamond);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+/* Removed dark mode for consistent elegant design */
 
 body {
   background: var(--background);
